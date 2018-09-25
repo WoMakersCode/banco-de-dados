@@ -1,0 +1,2 @@
+# Funções de Textos
+

@@ -1,0 +1,2 @@
+# Precedência dos operadores
+

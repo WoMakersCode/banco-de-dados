@@ -1,0 +1,2 @@
+# Trabalhando com CROSS JOIN
+

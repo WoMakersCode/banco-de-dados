@@ -1,0 +1,2 @@
+# Trabalhando com INNER JOIN
+
