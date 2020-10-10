@@ -64,3 +64,21 @@
 * [Funções de grupo](extra-funcoes/untitled.md)
 * [Funções de Textos](extra-funcoes/funcoes-de-textos.md)
 
+## **Sobre a nossa comunidade**
+
+A WoMakersCode é uma **comunidade** sem fins lucrativos, que busca o **protagonismo feminino na tecnologia**, através do desenvolvimento profissional e econômico. Oferecemos workshops, eventos e debates com foco no mercado de Tecnologia, orientados para capacitação técnica e fortalecimento de habilidades pessoais. Nossos eventos são realizados em diversas cidades do país, promovendo a conscientização da igualdade de gênero e buscando compreender as causas sub-representação feminina neste mercado de TI.
+
+
+## **Contribua para esse guia**
+Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/git-e-github/blob/master/CONTRIBUTING.md)
+
+## **Quem já contribuiu com esse guia**
+
+[Cynthia Zanoni](https://github.com/cyz) <br> 
+[Kamila Santos](https://github.com/Kamilahsantos)
+
+**Acompanhe nossos canais e ajude-nos a crescer:**
+
+**→** [**Participe de nossos Meetups** ](https://www.meetup.com/pt-BR/WoMakersCode/) **→** [**Conheça nosso portal**](http://womakerscode.org/)\*\*\*\*
+
+**→ Siga em:** [**Facebook**](https://www.facebook.com/womakerscode/) **//** [**Twitter**](https://twitter.com/womakerscode) **//** [**Instagram**](https://www.instagram.com/womakersgram/) **//** [**Youtube**](https://www.youtube.com/womakerscode)\*\*\*\*
