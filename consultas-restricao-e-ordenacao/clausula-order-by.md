@@ -13,7 +13,7 @@ FROM nome_tabela
 ORDER BY coluna1, coluna2 ASC ou DESC;
 ```
 
-Abaixo é uma tabela com funcionários de uma empresa:
+Abaixo uma tabela com funcionários de uma empresa, que será utilizada em nossos exemplos:
 
 | id | nome | cargo | salario |
 | - |:-------------|:-----| --:|
