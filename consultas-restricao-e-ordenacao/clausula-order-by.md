@@ -73,7 +73,7 @@ SELECT * FROM funcionarios
 ORDER BY nome, cargo;
 ```
 
-Resultado da consulta, podemos notar que a funcionária Tereza Cristina que possui o cargo Coordenadora de Sistemas foi para a quinta posição, pois o cargo foi considerado na ordenação:
+Resultado da consulta, podemos notar que a funcionária Tereza Cristina que possui o cargo Coordenadora de Sistemas foi para a quinta posição, pois o cargo foi considerado na ordenação ascendente:
 
 | id | nome | cargo | salario |
 | - |:-------------|:-----| --:|
@@ -83,3 +83,23 @@ Resultado da consulta, podemos notar que a funcionária Tereza Cristina que poss
 | 4 |	Márcio Felipe | Analista de Negócios | $5220 |
 | 5	| Tereza Cristina | Coordenadora de Sistemas  | $9500 |
 | 6 | Tereza Cristina | Desenvolvedora | $5794 |
+
+### Ordenação com mais de uma coluna exemplo 2:
+
+O exemplo abaixo, seleciona funcionários por nome e cargo, considerando que o nome é ascendente e que o cargo é descendente:
+
+```sql
+SELECT * FROM funcionarios
+ORDER BY nome ASC, cargo DESC;
+```
+
+Resultado da consulta:
+
+| id | nome | cargo | salario |
+| - |:-------------|:-----| --:|
+| 1 |	Ester Daniela | Gerente de Projetos | $6158 |
+| 2	|      Ester Gama | Coordenador de Sistemas | $7500 |
+| 3	|    João Gabriel | Gerente de Projetos | $7000 |
+| 4 |	Márcio Felipe | Analista de Negócios | $5220 |
+| 5 | Tereza Cristina | Desenvolvedora | $5794 |
+| 6	| Tereza Cristina | Coordenadora de Sistemas  | $9500 |
