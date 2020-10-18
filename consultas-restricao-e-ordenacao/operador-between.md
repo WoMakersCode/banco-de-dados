@@ -40,8 +40,8 @@ Resultado:
 | id  |   nome    | unidade | preco |
 | :-: | :-------: | :------ | :---- |
 |  1  |   lápis   | 1       | 2     |
-|  2  | borracha  | 1       | 1     |
-|  3  | lapiseira | 1       | 1.65  |
+|  4  | borracha  | 1       | 1     |
+|  6  | lapiseira | 1       | 1.65  |
 
 ### NOT BETWEEN exemplo com valor numérico:
 
@@ -56,9 +56,9 @@ O resultado da consulta são os itens que não estão no intervalo entre 1 e 2, 
 
 | id  |   nome    | unidade | preco |
 | :-: | :-------: | :------ | :---- |
-|  1  |  caneta   | 1       | 2.59  |
-|  2  |  caderno  | 1       | 20    |
-|  3  | corretivo | 1       | 2.5   |
+|  2  |  caneta   | 1       | 2.59  |
+|  3  |  caderno  | 1       | 20    |
+|  5  | corretivo | 1       | 2.5   |
 
 ### BETWEEN exemplo com valor em texto:
 
@@ -73,10 +73,10 @@ Quando utilizamos o **BETWEEN com valores em texto**, estamos instruindo nossa c
 
 | id  |   nome    | unidade | preco |
 | :-: | :-------: | :------ | :---- |
-|  1  |  caneta   | 1       | 2.59  |
-|  2  |  caderno  | 1       | 20    |
-|  3  | borracha  | 1       | 1     |
-|  4  | corretivo | 1       | 2.5   |
+|  2  |  caneta   | 1       | 2.59  |
+|  3  |  caderno  | 1       | 20    |
+|  4  | borracha  | 1       | 1     |
+|  5  | corretivo | 1       | 2.5   |
 
 ### NOT BETWEEN exemplo com valor em texto:
 
