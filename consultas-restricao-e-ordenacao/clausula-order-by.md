@@ -37,11 +37,11 @@ Resultado da consulta:
 
 | id | nome | cargo | salario |
 | - |:-------------|:-----| --:|
-| 1 |	Ester Daniela | Gerente de Projetos | $6158 |
-| 2	|      Ester Gama | Coordenador de Sistemas | $7500 |
-| 3	|    João Gabriel | Gerente de Projetos | $7000 |
-| 4 |	Márcio Felipe | Analista de Negócios | $5220 |
-| 5 | Tereza Cristina | Desenvolvedora | $5794 |
+| 2 |	Ester Daniela | Gerente de Projetos | $6158 |
+| 4	|      Ester Gama | Coordenador de Sistemas | $7500 |
+| 5	|    João Gabriel | Gerente de Projetos | $7000 |
+| 3 |	Márcio Felipe | Analista de Negócios | $5220 |
+| 1 | Tereza Cristina | Desenvolvedora | $5794 |
 | 6	| Tereza Cristina | Coordenadora de Sistemas  | $9500 |
 
 
@@ -58,12 +58,12 @@ Resultado da consulta:
 
 | id | nome | cargo | salario |
 | - |:-------------|:-----| --:|
-| 1 | Tereza Cristina | Coordenadora de Sistemas  | $9500 |
-| 2 | Tereza Cristina | Desenvolvedora | $5794 |
+| 6 | Tereza Cristina | Coordenadora de Sistemas  | $9500 |
+| 1 | Tereza Cristina | Desenvolvedora | $5794 |
 | 3 |	Márcio Felipe | Analista de Negócios | $5220 |   
-| 4	|    João Gabriel | Gerente de Projetos | $7000 |
-| 5	|      Ester Gama | Coordenador de Sistemas | $7500 |
-| 6 |	Ester Daniela | Gerente de Projetos | $6158 |
+| 5	|    João Gabriel | Gerente de Projetos | $7000 |
+| 4	|      Ester Gama | Coordenador de Sistemas | $7500 |
+| 2 |	Ester Daniela | Gerente de Projetos | $6158 |
  
 
 ### Ordenação com mais de uma coluna:
@@ -79,12 +79,12 @@ Resultado da consulta, podemos notar que a funcionária Tereza Cristina que poss
 
 | id | nome | cargo | salario |
 | - |:-------------|:-----| --:|
-| 1 |	Ester Daniela | Gerente de Projetos | $6158 |
-| 2	|      Ester Gama | Coordenador de Sistemas | $7500 |
-| 3	|    João Gabriel | Gerente de Projetos | $7000 |
-| 4 |	Márcio Felipe | Analista de Negócios | $5220 |
-| 5	| Tereza Cristina | Coordenadora de Sistemas  | $9500 |
-| 6 | Tereza Cristina | Desenvolvedora | $5794 |
+| 2 |	Ester Daniela | Gerente de Projetos | $6158 |
+| 4	|      Ester Gama | Coordenador de Sistemas | $7500 |
+| 5	|    João Gabriel | Gerente de Projetos | $7000 |
+| 3 |	Márcio Felipe | Analista de Negócios | $5220 |   
+| 6 | Tereza Cristina | Coordenadora de Sistemas  | $9500 |
+| 1 | Tereza Cristina | Desenvolvedora | $5794 |
 
 ### Ordenação com mais de uma coluna exemplo 2:
 
@@ -99,9 +99,10 @@ Resultado da consulta:
 
 | id | nome | cargo | salario |
 | - |:-------------|:-----| --:|
-| 1 |	Ester Daniela | Gerente de Projetos | $6158 |
-| 2	|      Ester Gama | Coordenador de Sistemas | $7500 |
-| 3	|    João Gabriel | Gerente de Projetos | $7000 |
-| 4 |	Márcio Felipe | Analista de Negócios | $5220 |
-| 5 | Tereza Cristina | Desenvolvedora | $5794 |
-| 6	| Tereza Cristina | Coordenadora de Sistemas  | $9500 |
+| 2 |	Ester Daniela | Gerente de Projetos | $6158 |
+| 4	|      Ester Gama | Coordenador de Sistemas | $7500 |
+| 5	|    João Gabriel | Gerente de Projetos | $7000 |
+| 3 |	Márcio Felipe | Analista de Negócios | $5220 |   
+| 1 | Tereza Cristina | Desenvolvedora | $5794 |
+| 6 | Tereza Cristina | Coordenadora de Sistemas  | $9500 |
+
