@@ -26,7 +26,7 @@ Abaixo uma tabela com produtos, que será utilizada nos nossos exemplos:
 |  5  | corretivo | 1       | 2.5   |
 |  6  | lapiseira | 1       | 1.65  |
 
-### BETWEEN exemplo com valor numérico:
+### BETWEEN - Exemplo com valor numérico:
 
 A instrução SQL abaixo seleciona todos os produtos em que o preço esteja entre 1 e 2, incluíndo os valores do intervalo:
 
@@ -43,7 +43,7 @@ Resultado:
 |  4  | borracha  | 1       | 1     |
 |  6  | lapiseira | 1       | 1.65  |
 
-### NOT BETWEEN exemplo com valor numérico:
+### NOT BETWEEN - Exemplo com valor numérico:
 
 Para exibir produtos que não estão no intervalo definido, podemos utilizar o NOT BETWEEN, abaixo um exemplo:
 
@@ -60,7 +60,7 @@ O resultado da consulta são os itens que não estão no intervalo entre 1 e 2, 
 |  3  |  caderno  | 1       | 20    |
 |  5  | corretivo | 1       | 2.5   |
 
-### BETWEEN exemplo com valor em texto:
+### BETWEEN - Exemplo com valor em texto:
 
 A instrução SQL abaixo, seleciona todos os produtos em que o nome esteja entre as linhas _caneta_ e _corretivo_:
 
@@ -78,7 +78,7 @@ Quando utilizamos o **BETWEEN com valores em texto**, estamos instruindo nossa c
 |  4  | borracha  | 1       | 1     |
 |  5  | corretivo | 1       | 2.5   |
 
-### NOT BETWEEN exemplo com valor em texto:
+### NOT BETWEEN - Exemplo com valor em texto:
 
 A instrução SQL abaixo, seleciona todos os produtos em que o nome não esteja entre as linhas _caneta_ e _corretivo_:
 
