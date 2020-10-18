@@ -1,6 +1,6 @@
 # Cláusula ORDER BY
 
-A cláusula **ORDER BY** é utilizada para ordernar o resultado da sua consulta em SQL, a ordenação pode ser em ordem ascendente (ASC) ou descendente (DESC), o default da ordenação é ascendente.
+A cláusula **ORDER BY** é utilizada para ordernar o resultado de uma consulta em SQL, a ordenação pode ser em ordem ascendente (ASC) ou descendente (DESC), sendo o default da ordenação *ascendente*.
 Para ordernar a sua consulta em ordem descendente utilize a cláusula **ORDER BY DESC**.
 
 Sintaxe base:
