@@ -73,7 +73,7 @@ SELECT * FROM funcionarios
 ORDER BY nome, cargo;
 ```
 
-Resultado da consulta, podemos notar que a funcionária Tereza Cristina foi para a posição 5, pois o cargo foi considerado na ordenação:
+Resultado da consulta, podemos notar que a funcionária Tereza Cristina que possui o cargo Coordenadora de Sistemas foi para a quinta posição, pois o cargo foi considerado na ordenação:
 
 | id | nome | cargo | salario |
 | - |:-------------|:-----| --:|
