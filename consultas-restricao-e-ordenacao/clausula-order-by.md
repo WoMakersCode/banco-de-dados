@@ -24,7 +24,8 @@ Abaixo é uma tabela com funcionários de uma empresa:
 
 Para selecionar funcionários por ordem ascedente dos nomes utilizamos:
 
-    ```SELECT * FROM funcionarios
+    ```sql
+    SELECT * FROM funcionarios
         ORDER BY nome;
     ```
 
@@ -44,7 +45,8 @@ Resultado da consulta:
 
 Para selecionar funcionários por ordem descedente dos nomes utilizamos:
 
-    ```SELECT * FROM funcionarios
+    ```sql
+    SELECT * FROM funcionarios
         ORDER BY cargo DESC;
     ```
 Resultado da consulta:
@@ -63,7 +65,8 @@ Resultado da consulta:
 
 Abaixo uma seleção com o nome dos funcionários e seu cargo em ordem ascendente. Isso significa que ele ordena por nome, mas se alguma linha possuir o nome repetido, a ordem será por ascendencia do cargo:
 
-    ```SELECT * FROM funcionarios
+    ```sql
+    SELECT * FROM funcionarios
         ORDER BY nome, cargo;
     ```
 Resultado da consulta, podemos notar que a funcionária Tereza Cristina foi para a posição 5, pois o cargo foi considerado na ordenação:
