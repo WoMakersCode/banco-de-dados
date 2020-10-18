@@ -24,7 +24,7 @@ Abaixo é uma tabela com funcionários de uma empresa:
 
 ### Ordenação ascendente:
 
-Para selecionar funcionários por ordem ascedente dos nomes utilizamos:
+Para selecionar funcionários por ordem ascendente dos nomes utilizamos:
 
 ```sql
 SELECT * FROM funcionarios
@@ -45,7 +45,7 @@ Resultado da consulta:
 
 ### Ordenação descendente:
 
-Para selecionar funcionários por ordem descedente dos nomes utilizamos:
+Para selecionar funcionários por ordem descendente dos nomes utilizamos:
 
 ```sql
 SELECT * FROM funcionarios
