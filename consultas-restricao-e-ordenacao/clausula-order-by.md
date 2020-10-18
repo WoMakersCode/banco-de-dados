@@ -4,10 +4,11 @@ A claúsula **ORDER BY** é utilizada para ordernar o resultado da sua consulta 
 
 Sintax base:
 
-        ```SELECT coluna1, coluna2
-        FROM nome_tabela
-        ORDER BY coluna1, coluna2 ASC ou DESC;
-        ```
+```sql
+SELECT coluna1, coluna2
+FROM nome_tabela
+ORDER BY coluna1, coluna2 ASC ou DESC;
+```
 
 Abaixo é uma tabela com funcionários de uma empresa:
 
@@ -24,10 +25,10 @@ Abaixo é uma tabela com funcionários de uma empresa:
 
 Para selecionar funcionários por ordem ascedente dos nomes utilizamos:
 
-    ```sql
-    SELECT * FROM funcionarios
-        ORDER BY nome;
-    ```
+```sql
+SELECT * FROM funcionarios
+ORDER BY nome;
+```
 
 Resultado da consulta:
 
@@ -45,10 +46,11 @@ Resultado da consulta:
 
 Para selecionar funcionários por ordem descedente dos nomes utilizamos:
 
-    ```sql
-    SELECT * FROM funcionarios
-        ORDER BY cargo DESC;
-    ```
+```sql
+SELECT * FROM funcionarios
+ORDER BY cargo DESC;
+```
+
 Resultado da consulta:
 
 | id | nome | cargo | salario |
@@ -65,10 +67,11 @@ Resultado da consulta:
 
 Abaixo uma seleção com o nome dos funcionários e seu cargo em ordem ascendente. Isso significa que ele ordena por nome, mas se alguma linha possuir o nome repetido, a ordem será por ascendencia do cargo:
 
-    ```sql
-    SELECT * FROM funcionarios
-        ORDER BY nome, cargo;
-    ```
+```sql
+SELECT * FROM funcionarios
+ORDER BY nome, cargo;
+```
+
 Resultado da consulta, podemos notar que a funcionária Tereza Cristina foi para a posição 5, pois o cargo foi considerado na ordenação:
 
 | id | nome | cargo | salario |
