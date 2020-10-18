@@ -77,7 +77,8 @@ Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/
 [Cynthia Zanoni](https://github.com/cyz) <br> 
 [Kamila Santos](https://github.com/Kamilahsantos) <br>
 [Karol Suzuki](https://github.com/suzukikarol)<br>
-[Débora Beda](https://github.com/deborabeda)
+[Débora Beda](https://github.com/deborabeda)<br>
+[Letícia Vargas](https://github.com/leticiavargas)
 
 
 **Acompanhe nossos canais e ajude-nos a crescer:**
