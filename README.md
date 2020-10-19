@@ -20,8 +20,6 @@
 
 * [Inserindo Dados](manipulacao-de-dados/untitled.md)
 * [Comando Select](manipulacao-de-dados/comando-select.md)
-* [Selecionando todas as Colunas](manipulacao-de-dados/selecionando-todas-as-colunas.md)
-* [Selecionando Colunas Específicas](manipulacao-de-dados/selecionando-colunas-especificas.md)
 * [Operador de Concatenação](manipulacao-de-dados/operador-de-concatenacao.md)
 * [Linhas duplicadas](manipulacao-de-dados/linhas-duplicadas.md)
 * [Expressões Aritméticas](manipulacao-de-dados/expressoes-aritmeticas.md)
