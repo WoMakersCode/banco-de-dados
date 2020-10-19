@@ -1,6 +1,6 @@
 # Utilizando a Cláusula WHERE
 
-A cláusula **WHERE** é utilizada para filtrar registros em uma tabela. Ela extrair os registros que atendam a uma condição específica.
+A cláusula **WHERE** é utilizada para filtrar registros em uma tabela. Ela extraí os registros que atendam a uma condição específica.
 
 Sintaxe base:
 
