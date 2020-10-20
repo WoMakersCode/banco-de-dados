@@ -79,6 +79,7 @@ Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/
 [Karol Suzuki](https://github.com/suzukikarol)<br>
 [Débora Beda](https://github.com/deborabeda)<br>
 [Letícia Vargas](https://github.com/leticiavargas)
+[Ester Gama](https://github.com/esterfania) <br>
 
 
 **Acompanhe nossos canais e ajude-nos a crescer:**
