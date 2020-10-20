@@ -80,6 +80,7 @@ Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/
 [Débora Beda](https://github.com/deborabeda) <br>
 [Ester Gama](https://github.com/esterfania) <br>
 
+
 **Acompanhe nossos canais e ajude-nos a crescer:**
 
 **→** [**Participe de nossos Meetups** ](https://www.meetup.com/pt-BR/WoMakersCode/) **→** [**Conheça nosso portal**](http://womakerscode.org/)\*\*\*\*
