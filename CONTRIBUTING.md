@@ -1,6 +1,6 @@
 ## Como contribuir com esse repositório?
 
-Estamos atualizando o conteúdo desse guia de banco de  e a ajuda da comunidade será essencial para isso!!
+Estamos atualizando o conteúdo desse guia de banco de dados e a ajuda da comunidade será essencial para isso!!
 
 ## Com quais assuntos posso contribuir? <br>
   Você pode ver quais assuntos e exercícios estamos buscando contribuição nas [issues](https://github.com/WoMakersCode/banco-de-dados/issues) do nosso projeto.
