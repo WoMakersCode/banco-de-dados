@@ -68,7 +68,7 @@ A WoMakersCode é uma **comunidade** sem fins lucrativos, que busca o **protagon
 
 
 ## **Contribua para esse guia**
-Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/git-e-github/blob/master/CONTRIBUTING.md)
+Veja detalhes no nosso [guia de contribuição](https://github.com/WoMakersCode/banco-de-dados/blob/master/CONTRIBUTING.md)
 
 ## **Quem já contribuiu com esse guia**
 
