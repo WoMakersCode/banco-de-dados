@@ -1,2 +1,0 @@
-# Operadores Lógicos
-

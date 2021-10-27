@@ -1,2 +1,0 @@
-# Utilizando a LIMIT
-

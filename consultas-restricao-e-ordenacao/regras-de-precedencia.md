@@ -1,2 +1,0 @@
-# Regras de Precedência
-
